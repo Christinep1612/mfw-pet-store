@@ -1,0 +1,32 @@
+
+
+.nav-pills {
+  color: black;
+  float: right;
+
+}
+
+
+.bgimage {
+  background-image: url('../img/hero.jpg');
+  background-position: center;
+  background-size: cover;
+  background-color: pink;
+  height: 200px;
+}
+
+h3 {
+  color: #ffffff;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.thumb_title {
+  color: black;
+  font-weight: bold;
+  text-align: left;
+}
+
+.space {
+  height: 15px;
+}
