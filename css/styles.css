@@ -6,6 +6,18 @@
 
 }
 
+.navbar-brand {
+  size: 90px ;
+}
+
+.img {
+  height: 90px;
+  float: left;
+}
+
+h2 {
+  float: right;
+}
 
 .bgimage {
   background-image: url('../img/hero.jpg');
